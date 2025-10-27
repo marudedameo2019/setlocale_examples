@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <errno.h>
 #include <stdlib.h>
+#include <wchar.h>
 
 #define BUFFSIZE 4096
 
